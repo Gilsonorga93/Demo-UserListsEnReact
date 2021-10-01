@@ -7,7 +7,7 @@ _React para JAVA EE Web API _
 ## Construido con 🛠️
 
 * [VS Code](https://code.visualstudio.com/#alt-downloads) 
-* [Maven](Node js®) 
+* [Node js®](https://nodejs.org/es/download/) 
 
 ## Autor ✒️
 
