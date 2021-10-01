@@ -2,7 +2,7 @@
 
 _Demo de interfaz WEB con UserList hecho en React_
 
-_Java Standard Web Programming, J2SE_
+_React para JAVA EE Web API _
 
 ## Construido con 🛠️
 
