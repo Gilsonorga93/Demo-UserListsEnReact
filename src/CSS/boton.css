@@ -1,0 +1,36 @@
+.button-swing {
+    color: white;
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 0 16px;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+    float: right;
+  }
+  
+  .button-swing:focus {
+    animation: swing 1s ease;
+    animation-iteration-count: 1;
+  }
+  
+  @keyframes swing {
+    15% {
+      transform: translateX(5px);
+    }
+    30% {
+      transform: translateX(-5px);
+    }
+    50% {
+      transform: translateX(3px);
+    }
+    65% {
+      transform: translateX(-3px);
+    }
+    80% {
+      transform: translateX(2px);
+    }
+    100% {
+      transform: translateX(0);
+    }
+  }
