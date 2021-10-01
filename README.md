@@ -2,7 +2,7 @@
 
 _Demo de interfaz WEB con UserList hecho en React_
 
-_React para JAVA EE Web API _
+_React para JAVA EE Web API_
 
 ## Construido con 🛠️
 
